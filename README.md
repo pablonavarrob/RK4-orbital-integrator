@@ -1,5 +1,5 @@
 # RK4 Integrator
-Implementation of a Runge-Kutta 4 integrator for planetary orbits using only numpy. 
+Implementation of a Runge-Kutta 4 integrator for planetary orbits using only numpy. Shows improved stability over other methods when integrating for longer periods of time and it can also handle the precession of Mercury's orbit.
 
 The code takes a state vector and derives it for the integrator. There are two versions: an easy one, which utilizes for-loops, and a more complex one, which uses fancy indexing and masking for improved efficiency. 
 
