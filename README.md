@@ -8,11 +8,11 @@ The code takes a state vector and derives it for the integrator. There are two v
 ### Inner Solar System 3D
 
 <br>
-![](inner3d.png)
+![](https://github.com/pablonavarrob/RK4-orbits/blob/main/inner3d.png)
 <br>
 
 ### Outer Solar System 3D
 
 <br>
-![](outer3d.png)
+![](https://github.com/pablonavarrob/RK4-orbits/blob/main/outer3d.png)
 <br>
